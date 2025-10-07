@@ -8,3 +8,6 @@
 - [**Basic Challenge**：手術画像に対する工程の分類](https://github.com/modafone/jscaschallenge2025/tree/main/basic_challenge)
 - [**Advanced Challenge**：手術動画内の各工程シーンの認識](https://github.com/modafone/jscaschallenge2025/tree/main/advanced_challenge)
 
+## 期限
+- **応募**締め切り：10/17
+- **提出**締め切り：10/31
